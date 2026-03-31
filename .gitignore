@@ -63,4 +63,7 @@ Thumbs.db
 # Projeto específico
 lixo/
 temp/
-temp_*
+temp_
+
+# Documentação
+docs/*
